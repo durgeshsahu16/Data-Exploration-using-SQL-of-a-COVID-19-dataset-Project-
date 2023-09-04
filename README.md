@@ -1,31 +1,30 @@
-# Data-Exploration-using-SQL-of-a-COVID-19-dataset-Project-
-Discover the impact of the COVID-19 pandemic through comprehensive data exploration using SQL queries. Analyze data points, filter and aggregate information, and visualize trends to gain valuable insights into the pandemic's effects.
-# COVID-19 Data Exploration Project
+# Portfolio-Project-Covid
+## Data Analyst Portfolio Project Repository
 
-![Final Visualization](Final%20Visualization.png)
+This Repository holds all of the code and queries from the Portfolio Projects I create on Covid Data.
 
+I have also use python to run sql queries in Jupyter Notebook!! :p
 
-## Power BI Visualization
+## Software Used
+- VS Code
+- Microsoft SQL server manager
+- Tableau
+- Python
 
-You can find the Power BI visualization in the repository.
+## Guide 
+- Alex The Analyst youtube channel
+- Google 
 
-## Dataset
+## Dataset Used
+- https://ourworldindata.org/covid-deaths
 
-The dataset used in this project has been cleaned using SQL. You can find the cleaned dataset in the following file. 
+## Live Demo
+- [view Project Details on Tableau Public](https://public.tableau.com/app/profile/mohanish.kashiwar/viz/PortfolioProjectCovid_16450331402700/Dashboard1?publish=yes)
 
-## SQL Queries
+![Final Visualization](https://github.com/mk1107/Portfolio-Project-Covid/blob/main/Final%20Visualization.png)
 
-SQL queries were used to clean and analyze the dataset. You can find the SQL query file here:
-
-
-### SQL Query in Python
-
-To perform data analysis in Python using SQL, you can use the following Python script:
-
-- [SQL Query in Python](covid_data_analysis.py)
-
-### Author
-
-This project was created by Durgesh Kumar Sahu.
-
-Feel free to explore the project and use the provided resources for your data analysis and visualization needs.
+## Summery
+- Global stats in terms of Total Cases, Total Deaths, and Total Vaccincation
+- Continent wise Total Death and Total Vaccination counts
+- Country wise Percent Population Infected and Percent Population Vaccinated 
+- Continent wise Percent Population Infected and Percent Population Vaccinated 
